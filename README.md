@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/sandeshshegde4" target="blank"><img src="https://img.shields.io/twitter/follow/sandeshshegde4?logo=twitter&style=for-the-badge" alt="sandeshshegde4" /></a> </p>
 
-- 🔭 I’m currently working on **Face Mask Detection**
-
 - 🌱 I’m currently preparing **for Placements**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sandy7596?tab=repositories](https://github.com/Sandy7596?tab=repositories)
