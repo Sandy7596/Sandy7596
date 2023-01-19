@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandesh S Hegde</h1>
-<h3 align="center">An Undergrad at Dayananda Sagar College of Engineering</h3>
+<h3 align="center">Working in VeBuIn Inc. as Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy7596&label=Profile%20views&color=0e75b6&style=flat" alt="sandy7596" /> </p>
 
-
-- 🌱 I’m currently preparing **for Placements**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sandy7596?tab=repositories](https://github.com/Sandy7596?tab=repositories)
 
