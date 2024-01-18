@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh S Hegde</h1>
-<h3 align="center">Working in VeBuIn Inc. as a Software Engineer</h3>
+<h3 align="center">I'm a Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy7596&label=Profile%20views&color=0e75b6&style=flat" alt="sandy7596" /> </p>
 
