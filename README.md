@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy7596&label=Profile%20views&color=0e75b6&style=flat" alt="sandy7596" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sandy7596?tab=repositories](https://github.com/Sandy7596?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/Sandy7596?tab=repositories)
 
 - 📫 How to reach me **sandeshshegde7596@gmail.com**
 
-- Visit https://sandesh-s-hegde.online/
+- Visit [Sandesh Hegde](https://sandesh-s-hegde.online/)
 
 
 <h3 align="left">Languages and Tools:</h3>
