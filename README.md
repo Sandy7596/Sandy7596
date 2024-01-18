@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sandeshshegde7596@gmail.com**
 
-- Visit [website]:https://sandesh-s-hegde.online/
+- Visit https://sandesh-s-hegde.online/
 
 
 <h3 align="left">Languages and Tools:</h3>
